@@ -1,4 +1,4 @@
-# <h1>Pong<h1>
+# <h1>Jogo de Pong<h1>
   
   ```
   Jogo de Pong desenvolvido em linguagem Java
