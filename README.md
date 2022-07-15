@@ -1,7 +1,10 @@
 # <h1>Jogo de Pong<h1>
-  
-  ```
-  Jogo de Pong desenvolvido em linguagem Java
+
+Para rodar o Jogo basta executar o arquivo:
+
+```
+Pong.jar
+
 ```
 
   
