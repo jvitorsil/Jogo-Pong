@@ -3,8 +3,8 @@
 Para rodar o Jogo basta executar o arquivo:
 
 ```
-Pong.jar
-
+Pong.java
+Caminho: 6_Jogo_Pong\src\Pong
 ```
 
   
